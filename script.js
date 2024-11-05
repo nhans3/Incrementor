@@ -229,6 +229,7 @@ function resetPage() {
   html.style.background = "#9ae4c8";
   body.style.fontSize = "16px";
   displayEL.innerHTML = "0";
+  counter = 0;
   stringInEl.innerHTML = " ";
   storyEl.innerHTML = "Once upon a time,";
   story = "Once upon a time, ";
